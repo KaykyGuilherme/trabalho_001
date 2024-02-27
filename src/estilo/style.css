@@ -48,13 +48,14 @@ header{
 }
 
 nav{
-    padding: .5rem 3rem;
+    padding: .5rem;
     display: flex;
-    align-items: center; justify-content: space-between;
+    align-items: center; justify-content: space-around;
 }
 
 .nav__logo{
     height: 7rem;
+    padding: 0 1rem;
 }
 
 .nav__logo img{
