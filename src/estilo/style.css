@@ -55,7 +55,6 @@ nav{
 
 .nav__logo{
     height: 7rem;
-    padding: 0 1rem;
 }
 
 .nav__logo img{
@@ -205,7 +204,7 @@ nav{
 
 .headline__text a{
     background: var(--cor__clara);
-    padding: .5rem 2rem; 
+    padding: .5rem; 
     border-radius: .5rem;
     box-shadow: 0 0 .4rem black;
     color: var(--cor__principal);
@@ -285,7 +284,7 @@ nav{
 .email form button{
     width: 10rem;
     margin: auto;
-    padding: .5rem 1rem;
+    padding: .5rem;
     text-transform: uppercase;
     font-weight: 600;
     background: green;
@@ -414,7 +413,7 @@ nav{
 
 .espelhos__img a{
     background: var(--cor__clara);
-    padding: .5rem 2rem; 
+    padding: .5rem .5rem; 
     border-radius: .5rem;
     box-shadow: 0 0 .4rem black;
     color: var(--cor__principal);
