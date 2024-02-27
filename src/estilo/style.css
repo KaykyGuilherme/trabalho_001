@@ -74,7 +74,7 @@ nav{
     font-weight: 500;
 }
 
-@media screen and (max-width: 940px) {
+@media screen and (max-width: 1061px) {
     .nav__logo img{
         height: 7rem;
     }
