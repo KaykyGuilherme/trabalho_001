@@ -175,7 +175,7 @@ nav{
 .headline{
     height: 76vh;
     background: linear-gradient(rgba(255, 0, 0, .2), rgba(255, 0, 0, 0.5)),
-    url(../img/wallpaper__predio__de__vidro.jpg)
+    url(../img/wallpaper__casa__de__vidro.jpg)
     no-repeat
     center/cover;
     margin-top: 6rem;
@@ -356,6 +356,13 @@ nav{
     margin: 1rem;
 }
 
+.container__janela__e__sacada p{
+    padding: 1rem 0;
+    text-align: justify;
+    max-width: 50rem;
+    margin: 0 auto;
+}
+
 .galeria{
     display: grid;
     align-items: center; justify-content: center;
@@ -397,6 +404,10 @@ nav{
 .espelhos__text h3{
     color: var(--cor__segundaria);
     text-transform: capitalize;
+}
+
+.espelhos__text p{
+    padding: 1rem 0;
 }
 
 .espelhos__img{
