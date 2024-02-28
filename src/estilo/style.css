@@ -174,7 +174,7 @@ nav{
 
 .headline{
     height: 76vh;
-    background: linear-gradient(rgba(255, 0, 0, .2), rgba(255, 0, 0, 0.5)),
+    background: linear-gradient(rgba(255, 0, 0, .2), rgba(168, 7, 7, 0.8)),
     url(../img/wallpaper__casa__de__vidro.jpg)
     no-repeat
     center/cover;
